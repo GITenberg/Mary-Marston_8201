@@ -1,0 +1,39 @@
+_repo: Mary-Marston_8201
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: "Mary Marston is a novel by George MacDonald, written in 1881 and later\
+  \ republished as A Daughter's Devotion.\nWritten at the height of George MacDonald's\
+  \ literary career, the story centers around the life of a simple merchant's daughter.\
+  \ Mary Marston's unswerving commitment to love God and others is contrasted with\
+  \ a backdrop of an array of characters and a complex and sometimes mysterious plot.\n\
+  It is a story of a woman who loves a man, and teaches him to change. Not out of\
+  \ his love for her, but simply because it was the right thing to do.\nMacDonald\
+  \ allows the characters a range from delightful to devious. As such, they were intended\
+  \ to serve as models. His message is that all eventually must stand before God.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8201'
+  wikidata: Q6780254
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: Mary Marston
+url: http://www.gutenberg.org/ebooks/8201
+wikipedia:
+- https://en.wikipedia.org/wiki/Mary_Marston
